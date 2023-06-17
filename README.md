@@ -54,3 +54,5 @@ En espérent pouvoir terminé ce programme cette année, les grandes vacances ce
 - 19h56 : "Raisonner, rédiger"
 
 Bilan de la journée : 3 lectures terminé : 19 pages
+
+        commentaire : Je rentre maintenant dans les 34 chapitres après cette grosse introduction !

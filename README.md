@@ -1,5 +1,5 @@
 # MAraTHon, chapitres complétés : 49/+60 (17 juin 2023) -> Maths MPSI
-# Lecture chapitres MPSI complétés : 1/37
+# Lecture chapitres MPSI complétés : 2/37
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -48,3 +48,5 @@ je ferai le programme de MPSI dans cette ordre :
 En espérent pouvoir terminé ce programme cette année, les grandes vacances ce rapprochent de même pour pouvoir mieux avancé dessus.
 
 10h28 : aplhabet grec
+
+11h:39 : "Manuelle de rédaction"

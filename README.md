@@ -52,3 +52,5 @@ En espérent pouvoir terminé ce programme cette année, les grandes vacances ce
 - 11h:39 : "Manuelle de rédaction"
 
 - 19h56 : "Raisonner, rédiger"
+
+Bilan de la journée : 3 lectures terminé : 19 pages

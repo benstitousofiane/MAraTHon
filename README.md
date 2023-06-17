@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 49/+60 (12 mars 2023) -> Maths MPSI
+# MAraTHon, chapitres complétés : 49/+60 (17 juin 2023) -> Maths MPSI
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -34,3 +34,15 @@ Progression du projet : Programme Maths MPSI
 
 Le chapitre sur "Rudiments de logique et vocabulaire ensembliste" est en cours de traitement, seulement entre les cours et la complexité des exercice cela prend un temps concidérable, c'est pour ça que je suis entrain de développé des applications et moyens de traitements de données pour pouvoir mieux travailler sur mon poste informatique (Développement de LaCase, Temporaire...)
 Il me reste à finir les exercices de ce chapitre, j'essairai de les terminer à la fin de se mois de mai, mais rien n'est assuré.
+
+**Jour 398 (17 juin 2023)** : Nouveau fonctionnement pour le programme de MPSI
+
+Etant super dense (surtout beaucoup trop d'exercices, les plus différents les uns des autres),
+je me suis dit qu'un peu d'organisation ne ferai pas trop de mal.
+Pour ne pas être pénaliser par le temps qu'il me reste soit deux ans pour tenté d'arriver jusu'à un programme de Maths MP terminé,
+je ferai le programme de MPSI dans cette ordre :
+- Lecture de tout les cours du programme
+- Pratique des exercices grâces aux chapitre et méthode apprise grâce à cela.
+
+En espérent pouvoir terminé ce programme cette année, les grandes vacances ce rapprochent de même pour pouvoir mieux avancé dessus.
+

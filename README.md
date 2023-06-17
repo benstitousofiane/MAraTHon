@@ -47,6 +47,8 @@ je ferai le programme de MPSI dans cette ordre :
 
 En espérent pouvoir terminé ce programme cette année, les grandes vacances ce rapprochent de même pour pouvoir mieux avancé dessus.
 
-10h28 : aplhabet grec
+- 10h28 : "aplhabet grec"
 
-11h:39 : "Manuelle de rédaction"
+- 11h:39 : "Manuelle de rédaction"
+
+- 19h56 : "Raisonner, rédiger"

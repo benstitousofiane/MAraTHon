@@ -1,5 +1,5 @@
 # MAraTHon, chapitres complétés : 49/+60 (18 juin 2023) -> Maths MPSI
-# Lecture chapitres MPSI complétés : 3/37
+# Lecture chapitres MPSI complétés : 4/37
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -56,3 +56,8 @@ En espérent pouvoir terminé ce programme cette année, les grandes vacances ce
 Bilan de la journée : 3 lectures terminé : 19 pages
 
         commentaire : Je rentre maintenant dans les 34 chapitres après cette grosse introduction !
+
+**Jour 399 (18 juin 2023)** :
+- 11h21 : "Rudiments de logique et vocabulaire ensembliste",
+        temps de lecture (pauses non comprisent) : 1h20m30s,
+        nombre de pauses : 2, toutes les 25 minutes, 20 minutes de pauses en tout

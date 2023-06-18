@@ -47,19 +47,21 @@ je ferai le programme de MPSI dans cette ordre :
 
 En espérent pouvoir terminé ce programme cette année, les grandes vacances ce rapprochent de même pour pouvoir mieux avancé dessus.
 
-- 10h28 : "aplhabet grec"
+- 10h28 : "aplhabet grec" (une page)
 
-- 11h:39 : "Manuelle de rédaction"
+- 11h:39 : "Manuelle de rédaction" (6 pages)
 
-- 19h56 : "Raisonner, rédiger"
+- 19h56 : "Raisonner, rédiger" (12 pages)
 
 Bilan de la journée : 3 lectures terminé : 19 pages
 
         commentaire : Je rentre maintenant dans les 34 chapitres après cette grosse introduction !
 
 **Jour 399 (18 juin 2023)** :
-- 11h21 : "Rudiments de logique et vocabulaire ensembliste",
-- 
+- 11h21 : "Rudiments de logique et vocabulaire ensembliste" (7 pages)
+ 
         temps de lecture (pauses non comprisent) : 1h20m30s,
   
         nombre de pauses : 2, toutes les 25 minutes, 20 minutes de pauses en tout
+
+          

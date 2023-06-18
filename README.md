@@ -59,5 +59,7 @@ Bilan de la journée : 3 lectures terminé : 19 pages
 
 **Jour 399 (18 juin 2023)** :
 - 11h21 : "Rudiments de logique et vocabulaire ensembliste",
+- 
         temps de lecture (pauses non comprisent) : 1h20m30s,
+  
         nombre de pauses : 2, toutes les 25 minutes, 20 minutes de pauses en tout

@@ -29,7 +29,7 @@ Progression du projet : Programme Maths MPSI
                       suivis le programme scolaire actuel sans aucune activité particulière en dehors des cours et qui souhaitait
                       par la suite d'aller en classe préparatoire, fini par y être... Le temps d'adaptation serait concidérable.
                       Enfin je trouve aussi intrigant qu'avec de l'auto-dicipline que l'on peut sur le long terme aller là
-                      où on ne devrais pas supposément être; soit-il que l'autoformation n'est pas enseignée pour des raisons particulières.
+                      où on ne devrais pas supposément être; soit-il que l'autoformation n'est pas enseignée pour des raisons particulières ?
 
 **Jour 363 (14 mai 2023)** -> migration de compte
 

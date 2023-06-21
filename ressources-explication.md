@@ -21,5 +21,8 @@ Outils que j'utilise énorméments pour faire mes maths sans gaspiller de feuill
 - Miro/Webwhiteboard : https://miro.com/ | https://webwhiteboard.com/
 - Lagrida Editor pour écrire du Latex en temps réel : https://latexeditor.lagrida.com/
 
+Je développe aussi mes propre solution pour faire des maths de façon plus agréable sur ordi comme :
+- Lacase : https://github.com/benstitousofiane/LaCase
+
 En espérant que ça inspirera certaines personnes à parcourir mon chemin via ces ressources.
 Je remercie par ailleurs ces personnes et organisations qui ont pris leurs temmps pour fournir ses magnifiques cours et exercices.

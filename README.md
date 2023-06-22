@@ -65,5 +65,5 @@ Bilan de la journée : 3 lectures terminé : 19 pages
         nombre de pauses : 2, toutes les 25 minutes, 20 minutes de pauses en tout
 
           
-**Jour 401 (21 juin 2023)**
+**Jour 402 (21 juin 2023)**
 - 8h07 :  Ensembles de nombres, équations, inéquations

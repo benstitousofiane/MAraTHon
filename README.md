@@ -69,4 +69,5 @@ Bilan de la journée : 3 lectures terminé : 19 pages
 - 8h07 :  Ensembles de nombres, équations, inéquations
 
 **Jour 412 (1er juillet 2023)** : 1er jour des grande vacance, il est temps d'aller le plus loin possible 😈
+
 21h26 : "Sommes, produits, coefficients binomiaux" (7 pages)

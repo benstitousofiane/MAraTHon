@@ -67,3 +67,6 @@ Bilan de la journée : 3 lectures terminé : 19 pages
           
 **Jour 402 (21 juin 2023)**
 - 8h07 :  Ensembles de nombres, équations, inéquations
+
+**Jour 412 (1er juillet 2023)** : 1er jour des grande vacance, il est temps d'aller le plus loin possible 😈
+

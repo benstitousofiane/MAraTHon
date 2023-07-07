@@ -71,3 +71,8 @@ Bilan de la journée : 3 lectures terminé : 19 pages
 **Jour 412 (1er juillet 2023)** : 1er jour des grande vacance, il est temps d'aller le plus loin possible 😈
 
 21h26 : "Sommes, produits, coefficients binomiaux" (7 pages)
+
+**Jour 418 (7 juillet 2023)**
+9h37 : Rappels et compléments sur les fonctions (21 pages)
+
+

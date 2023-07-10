@@ -1,5 +1,7 @@
-# MAraTHon, chapitres complétés : 49/+60 (1er juillet 2023) -> Maths MPSI
+# MAraTHon, chapitres complétés : 49/+60 (10 juillet 2023) -> Maths MPSI
 # Lecture chapitres MPSI complétés : 6/37
+# Nombre de page lu : 65/
+
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 
@@ -66,7 +68,7 @@ Bilan de la journée : 3 lectures terminé : 19 pages
 
           
 **Jour 402 (21 juin 2023)**
-- 8h07 :  Ensembles de nombres, équations, inéquations
+- 8h07 :  Ensembles de nombres, équations, inéquations (11 pages)
 
 **Jour 412 (1er juillet 2023)** : 1er jour des grande vacance, il est temps d'aller le plus loin possible 😈
 

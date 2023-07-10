@@ -1,6 +1,7 @@
 # MAraTHon, chapitres complétés : 49/+60 (10 juillet 2023) -> Maths MPSI
 # Lecture chapitres MPSI complétés : 6/37
-# Nombre de page lu : 65/
+# Nombre de page lu : 65/383
+# Actuellement : chapitre 5/34 : 6/15 pages (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
 
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.

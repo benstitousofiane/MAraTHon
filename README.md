@@ -1,7 +1,7 @@
-# MAraTHon, chapitres complétés : 49/+60 (10 juillet 2023) -> Maths MPSI
+# MAraTHon, chapitres complétés : 49/+60 (17 juillet 2023) -> Maths MPSI
 # Lecture chapitres MPSI complétés : 6/37
-# Nombre de page lu : 65/383
-# Actuellement : chapitre 5/34 : 6/15 pages (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
+# Nombre de page lu : 80/383
+# Actuellement : chapitre 6/34 : 0/4 pages (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
 
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
@@ -78,4 +78,7 @@ Bilan de la journée : 3 lectures terminé : 19 pages
 **Jour 418 (7 juillet 2023)**
 9h37 : Rappels et compléments sur les fonctions (21 pages)
 
+
+**Jour 428 (17 juillet 2023)**
+23h32 : Nombres complexes et trigonométrie (15 pages)
 

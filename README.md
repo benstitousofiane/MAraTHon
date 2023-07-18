@@ -1,7 +1,7 @@
 # MAraTHon, chapitres complétés : 49/+60 (18 juillet 2023) -> Maths MPSI
 # Lecture chapitres MPSI complétés : 9/37
 # Nombre de page lu : 84/383
-# Actuellement : chapitre 7/34 : 0/7 pages (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
+# Actuellement : chapitre 7/34 : 3/7 pages (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
 
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
@@ -83,7 +83,7 @@ Bilan de la journée : 3 lectures terminé : 19 pages
 23h32 : Nombres complexes et trigonométrie (15 pages)
 
 **Jour 429 (18 juillet 2023)**
-12h13 : Introduction à la décomposition en éléments simples
+12h13 : Introduction à la décomposition en éléments simples (4 pages)
 
         commentaire : J'ai fais les compte, et si je lis 7 pages par jour je devrais avoir fini avant ma rentré en 1ère la lecture des chapitres de MPSI,
         ainsi je passerai aux exercices. Je développerai le reste de la journée des programmes et systèmes de publications pour mes cours.

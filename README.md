@@ -84,5 +84,6 @@ Bilan de la journée : 3 lectures terminé : 19 pages
 
 **Jour 429 (18 juillet 2023)**
 12h13 : Introduction à la décomposition en éléments simples
+
         commentaire : J'ai fais les compte, et si je lis 7 pages par jour je devrais avoir fini avant ma rentré en 1ère la lecture des chapitres de MPSI,
         ainsi je passerai aux exercices. Je développerai le reste de la journée des programmes et systèmes de publications pour mes cours.

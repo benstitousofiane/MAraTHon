@@ -4,6 +4,7 @@
 # Actuellement : chapitre 7/34 : 3/7 pages 
 (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
 
+#
 
 Ce projet à été réaliser pour me rappeler de ma progession sur mon niveau en mathématiques, un très gros et long projet qui je pense vaut largement la peine.
 

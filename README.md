@@ -1,4 +1,4 @@
-# MAraTHon, chapitres complétés : 49/+60 (20 juillet 2023) -> Maths MPSI
+# MAraTHon, chapitres complétés : 49/+60 (21 juillet 2023) -> Maths MPSI
 # Lecture chapitres MPSI complétés : 11/37
 # Nombre de page lu : 101/383
 # Actuellement : chapitre 9/34 : 0/8 pages

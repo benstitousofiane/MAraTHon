@@ -4,7 +4,7 @@
 # Actuellement : chapitre 9/34 : 0/8 pages
 (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
 
-# N° exo réalisés : 2/1010 ( moy : 4/j)
+# N° exo réalisés : 2/1010 (moy : 4/j)
 
 #
 

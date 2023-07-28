@@ -1,10 +1,10 @@
-# MAraTHon, chapitres complétés : 49/+60 (27 juillet 2023) -> Maths MPSI
-# Lecture chapitres MPSI complétés : 12/37
-# Nombre de page lu : 109/383
-# Actuellement : chapitre 10/34 : 13/18 pages
+# MAraTHon, chapitres complétés : 49/+60 (28 juillet 2023) -> Maths MPSI
+# Lecture chapitres MPSI complétés : 13/37
+# Nombre de page lu : 127/383
+# Actuellement : chapitre 11/34 : 0/10 pages
 (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
 
-# N° exo réalisés : 2/1010 (moy : 4/j)
+# N° exo réalisés : 0/1010 (moy : 4/j)
 
 #
 
@@ -93,11 +93,15 @@ Bilan de la journée : 3 lectures terminé : 19 pages
         ainsi je passerai aux exercices. Je développerai le reste de la journée des programmes et systèmes de publications pour mes cours.
 
 **Jour 430 (19 juillet 2023)**
-16h48 : Techniques élémentaires de calcul intégral
+16h48 : Techniques élémentaires de calcul intégral (7 pages)
 
 
 **Jour 431 (20 juillet 2023)**
-14h03 : Équations différentielles et suites récurrentes linéaires
+14h03 : Équations différentielles et suites récurrentes linéaires (10 pages)
 
 **Jour 437 (26 juillet 2023)**
-15h57 : Compléments sur les réels 
+15h57 : Compléments sur les réels (8 pages)
+
+
+**Jour 439 (28 juillet 2023)**
+16h32 : Limite d’une suite (18 pages)

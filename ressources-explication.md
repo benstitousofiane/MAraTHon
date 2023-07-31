@@ -11,7 +11,7 @@ Jaicompris Maths, certains exercices de spé etnotions pour les maths expertes, 
 - Chaîne : https://www.youtube.com/@jaicomprisMaths
 - Site Web : http://www.jaicompris.com/
 
-Exo7Math, toutes les vidéo des playlist présent sur leur chaîne : 
+Exo7Math, pour les cours de sup en vidéo : 
 - Chaîne : https://www.youtube.com/@Exo7Math/playlists
 
 Christophe Bertault, programme de maths prépa MPSI :

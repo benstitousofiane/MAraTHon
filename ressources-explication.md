@@ -17,6 +17,9 @@ Exo7Math, pour les cours de sup en vidéo :
 Christophe Bertault, programme de maths prépa MPSI :
 - Site web : http://christophebertault.fr/
 
+cpge-paradise (programme de maths en MP*) (sera fait après avoir fini le programme de MPSI) :
+- PDF : https://cpge-paradise.com/MP4Math/MP4_book.pdf
+
 Outils que j'utilise énorméments pour faire mes maths sans gaspiller de feuille et gagner en productivité :
 - Miro/Webwhiteboard : https://miro.com/ | https://webwhiteboard.com/
 - Lagrida Editor pour écrire du Latex en temps réel : https://latexeditor.lagrida.com/

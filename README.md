@@ -1,7 +1,7 @@
 # MAraTHon, chapitres complétés : 49/+60 (31 juillet 2023) -> Maths MPSI
-# Lecture chapitres MPSI complétés : 14/37
-# Nombre de page lu : 137/383
-# Actuellement : chapitre 12/34 : 0/5 pages
+# Lecture chapitres MPSI complétés : 15/37
+# Nombre de page lu : 142/383
+# Actuellement : chapitre 13/34 : 0/12 pages
 (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
 
 # N° exo réalisés : 0/1010 (moy : 4/j)
@@ -109,4 +109,5 @@ Bilan de la journée : 3 lectures terminé : 19 pages
 **Jour 442 (31 juillet 2023)**
 13h36 : Injections, surjections, bijections (10 pages)
 
-        Commentaire : j'ai trouver super intéressant la notion d'équipotance, et le mystère sur la théorie du ZFC 
+        Commentaire : j'ai trouver super intéressant la notion d'équipotance, et le mystère sur la théorie du ZFC
+23h14 : Relations binaires (5 pages)

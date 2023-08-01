@@ -76,38 +76,38 @@ Bilan de la journée : 3 lectures terminé : 19 pages
 - 8h07 :  Ensembles de nombres, équations, inéquations (11 pages)
 
 **Jour 412 (1er juillet 2023)** : 1er jour des grande vacance, il est temps d'aller le plus loin possible 😈
-
-21h26 : "Sommes, produits, coefficients binomiaux" (7 pages)
+- 21h26 : "Sommes, produits, coefficients binomiaux" (7 pages)
 
 **Jour 418 (7 juillet 2023)**
-9h37 : Rappels et compléments sur les fonctions (21 pages)
+- 9h37 : Rappels et compléments sur les fonctions (21 pages)
 
 
 **Jour 428 (17 juillet 2023)**
-23h32 : Nombres complexes et trigonométrie (15 pages)
+- 23h32 : Nombres complexes et trigonométrie (15 pages)
 
 **Jour 429 (18 juillet 2023)**
-12h13 : Introduction à la décomposition en éléments simples (4 pages)
+- 12h13 : Introduction à la décomposition en éléments simples (4 pages)
 
         commentaire : J'ai fais les compte, et si je lis 7 pages par jour je devrais avoir fini avant ma rentré en 1ère la lecture des chapitres de MPSI,
         ainsi je passerai aux exercices. Je développerai le reste de la journée des programmes et systèmes de publications pour mes cours.
 
 **Jour 430 (19 juillet 2023)**
-16h48 : Techniques élémentaires de calcul intégral (7 pages)
+- 16h48 : Techniques élémentaires de calcul intégral (7 pages)
 
 
 **Jour 431 (20 juillet 2023)**
-14h03 : Équations différentielles et suites récurrentes linéaires (10 pages)
+- 14h03 : Équations différentielles et suites récurrentes linéaires (10 pages)
 
 **Jour 437 (26 juillet 2023)**
-15h57 : Compléments sur les réels (8 pages)
+- 15h57 : Compléments sur les réels (8 pages)
 
 
 **Jour 439 (28 juillet 2023)**
-16h32 : Limite d’une suite (18 pages)
+- 16h32 : Limite d’une suite (18 pages)
 
 **Jour 442 (31 juillet 2023)**
-13h36 : Injections, surjections, bijections (10 pages)
+- 13h36 : Injections, surjections, bijections (10 pages)
 
         Commentaire : j'ai trouver super intéressant la notion d'équipotance, et le mystère sur la théorie du ZFC
-23h14 : Relations binaires (5 pages)
+  
+- 23h14 : Relations binaires (5 pages)

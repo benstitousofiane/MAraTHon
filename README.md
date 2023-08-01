@@ -25,7 +25,7 @@ Progression du projet : Programme Maths MPSI
 **Découverte programme universitaire "TaL1" : https://github.com/carrelebo/MAraTHon/blob/main/TaL1.md**
 
 **Jour 300 (12 mars 2023)**
-13h34 : Raisonné et rédiger, axiome, définitions théorèmes..., introduir d'une variable, donner un nom à un objet; montrer une proposition universelle, 
+- 13h34 : Raisonné et rédiger, axiome, définitions théorèmes..., introduir d'une variable, donner un nom à un objet; montrer une proposition universelle, 
         l'existence d'un objet, l'unicité d'un objet, disjonction, implication, équivalence, inclusion ou égalité d'ensembles, 
         raisonnement par récurrence, par l'absurde, analyse synthèse et bien rédiger les fonction.
 

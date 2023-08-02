@@ -1,7 +1,7 @@
-# MAraTHon, chapitres complétés : 49/+60 (1er Août 2023) -> Maths MPSI
-# Lecture chapitres MPSI complétés : 15/37
-# Nombre de page lu : 142/383
-# Actuellement : chapitre 13/34 : 9/12 pages
+# MAraTHon, chapitres complétés : 49/+60 (2 août 2023) -> Maths MPSI
+# Lecture chapitres MPSI complétés : 16/37
+# Nombre de page lu : 154/383
+# Actuellement : chapitre 14/34 : 0/15 pages
 (sera ajouté aux nombre de pages lu à la fin de la lecture du chapitre)
 
 # N° exo réalisés : 0/1010 (moy : 4/j)
@@ -111,3 +111,7 @@ Bilan de la journée : 3 lectures terminé : 19 pages
         Commentaire : j'ai trouver super intéressant la notion d'équipotance, et le mystère sur la théorie du ZFC
   
 - 23h14 : Relations binaires (5 pages)
+
+**Jour 444 (2 août 2023)**
+- 13h48 : Arithmétique des entiers relatifs (12 pages)
+
